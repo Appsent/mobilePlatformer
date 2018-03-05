@@ -1,0 +1,123 @@
+fileFormatVersion: 2
+guid: 29cf3f8ce3b02aa4980933b8f31d6577
+timeCreated: 1471740117
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: AttackMain (4)_0
+    21300002: AttackMain (4)_1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: AttackMain (4)_0
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 53
+        width: 623
+        height: 417
+      alignment: 9
+      pivot: {x: 0.15, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 302.55, y: -46.01001}
+        - {x: 255.54999, y: -48.01001}
+        - {x: 276.55, y: -47.01001}
+        - {x: 294.55, y: -42.01001}
+        - {x: 313.55, y: -35.01001}
+        - {x: 349.55, y: 123.98999}
+        - {x: 311.55, y: 183.98999}
+        - {x: 239.54999, y: 195.98999}
+        - {x: 145.54999, y: 195.98999}
+        - {x: 140.54999, y: 187.98999}
+        - {x: 142.54999, y: 170.98999}
+        - {x: -93.45001, y: -25.01001}
+        - {x: -93.45001, y: -56.01001}
+        - {x: -17.450012, y: -221.01001}
+        - {x: 320.55, y: -221.01001}
+        - {x: 440.55, y: 14.98999}
+        - {x: 440.55, y: 39.98999}
+        - {x: 437.55, y: 48.98999}
+      - - {x: 435.55, y: 183.98999}
+        - {x: 399.55, y: 188.98999}
+        - {x: 298.55, y: 188.98999}
+        - {x: 298.55, y: -209.01001}
+        - {x: 494.55, y: -209.01001}
+        - {x: 524.55, y: -162.01001}
+        - {x: 524.55, y: 58.98999}
+        - {x: 518.55, y: 71.98999}
+      - - {x: 239.54999, y: -114.01001}
+        - {x: 237.54999, y: -111.01001}
+        - {x: 237.54999, y: -109.01001}
+        - {x: 238.54999, y: -108.01001}
+        - {x: 237.54999, y: -108.01001}
+        - {x: 236.54999, y: -109.01001}
+        - {x: 239.54999, y: -113.01001}
+        - {x: 239.54999, y: -114.01001}
+        - {x: 245.54999, y: -119.01001}
+        - {x: 245.54999, y: -117.01001}
+      - - {x: 120.54999, y: -45.01001}
+        - {x: 123.54999, y: -42.01001}
+        - {x: 122.54999, y: -42.01001}
+        - {x: 121.54999, y: -48.01001}
+        - {x: 120.54999, y: -48.01001}
+        - {x: 116.54999, y: -57.01001}
+      - - {x: 238.54999, y: -97.01001}
+        - {x: 232.54999, y: -90.01001}
+        - {x: 224.54999, y: -85.01001}
+        - {x: 244.54999, y: -94.01001}
+        - {x: 249.54999, y: -95.01001}
+        - {x: 246.54999, y: -94.01001}
+        - {x: 238.54999, y: -100.01001}
+        - {x: 238.54999, y: -103.01001}
+        - {x: 239.54999, y: -103.01001}
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

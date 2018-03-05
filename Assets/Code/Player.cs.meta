@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 378d71a7f1aec994197e88f54f74b20c
+timeCreated: 1466471406
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - OuchEffect: {fileID: 1000011785368656, guid: 040494dc967d23f40a9c7a136d7ec778,
+      type: 2}
+  - Projectile: {fileID: 114000014264888546, guid: e44b3d10adf1f424e8cccdcfa4845d0e,
+      type: 2}
+  - ProjectileFireLocation: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

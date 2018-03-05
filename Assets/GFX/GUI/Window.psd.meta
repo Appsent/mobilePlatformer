@@ -1,0 +1,609 @@
+fileFormatVersion: 2
+guid: 7cd0a4f35745d9e40a930b7a22b8fce5
+timeCreated: 1473028841
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Window_0
+    21300002: Window_1
+    21300004: Window_2
+    21300006: Window_3
+    21300008: Window_4
+    21300010: Window_5
+    21300012: Window_6
+    21300014: Window_7
+    21300016: Window_8
+    21300018: Window_9
+    21300020: Window_10
+    21300022: Window_11
+    21300024: Window_12
+    21300026: Window_13
+    21300028: Window_14
+    21300030: Window_15
+    21300032: Window_16
+    21300034: Window_17
+    21300036: Window_18
+    21300038: Window_19
+    21300040: Window_20
+    21300042: Window_21
+    21300044: Window_22
+    21300046: Window_23
+    21300048: Window_24
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Window_0
+      rect:
+        serializedVersion: 2
+        x: 3684
+        y: 1588
+        width: 9016
+        height: 5016
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -563.5, y: 314.5}
+        - {x: -563.5, y: -313.5}
+        - {x: 564.5, y: -313.5}
+        - {x: 564.5, y: 314.5}
+      - - {x: -557.5, y: 308.5}
+        - {x: 558.5, y: 308.5}
+        - {x: 558.5, y: -307.5}
+        - {x: -557.5, y: -307.5}
+      - - {x: -99.5, y: -248.5}
+        - {x: -99.5, y: 40.5}
+        - {x: -103.5, y: 48.5}
+        - {x: -523.5, y: 48.5}
+        - {x: -523.5, y: -248.5}
+      - - {x: -68.5, y: 6.5}
+        - {x: -86.5, y: -17.5}
+        - {x: -86.5, y: -199.5}
+        - {x: -79.5, y: -202.5}
+        - {x: 163.5, y: -202.5}
+        - {x: 169.5, y: -197.5}
+        - {x: 169.5, y: -12.5}
+        - {x: 146.5, y: 6.5}
+      - - {x: 185.5, y: 36.5}
+        - {x: 182.5, y: 33.5}
+        - {x: 182.5, y: -129.5}
+        - {x: 185.5, y: -132.5}
+        - {x: 195.5, y: -132.5}
+        - {x: 197.5, y: -130.5}
+        - {x: 197.5, y: 33.5}
+        - {x: 194.5, y: 36.5}
+      - - {x: 210.5, y: 20.5}
+        - {x: 209.5, y: 17.5}
+        - {x: 209.5, y: -3.5}
+        - {x: 207.5, y: -14.5}
+        - {x: 207.5, y: -78.5}
+        - {x: 286.5, y: -78.5}
+        - {x: 315.5, y: -51.5}
+        - {x: 317.5, y: -34.5}
+        - {x: 317.5, y: 20.5}
+      - - {x: 328.5, y: 23.5}
+        - {x: 328.5, y: -21.5}
+        - {x: 377.5, y: -48.5}
+        - {x: 510.5, y: -48.5}
+        - {x: 524.5, y: -23.5}
+        - {x: 524.5, y: 23.5}
+      - - {x: 9.5, y: 109.5}
+        - {x: 5.5, y: 104.5}
+        - {x: 5.5, y: 17.5}
+        - {x: 11.5, y: 13.5}
+        - {x: 90.5, y: 13.5}
+        - {x: 90.5, y: 108.5}
+        - {x: 88.5, y: 109.5}
+      - - {x: 367.5, y: 99.5}
+        - {x: 367.5, y: 30.5}
+        - {x: 538.5, y: 30.5}
+        - {x: 542.5, y: 35.5}
+        - {x: 542.5, y: 99.5}
+      - - {x: 276.5, y: 84.5}
+        - {x: 271.5, y: 66.5}
+        - {x: 271.5, y: 42.5}
+        - {x: 288.5, y: 42.5}
+        - {x: 311.5, y: 67.5}
+        - {x: 311.5, y: 84.5}
+      - - {x: 111.5, y: 86.5}
+        - {x: 107.5, y: 78.5}
+        - {x: 107.5, y: 47.5}
+        - {x: 119.5, y: 43.5}
+        - {x: 145.5, y: 43.5}
+        - {x: 149.5, y: 51.5}
+        - {x: 149.5, y: 82.5}
+        - {x: 137.5, y: 86.5}
+      - - {x: 157.5, y: 85.5}
+        - {x: 153.5, y: 83.5}
+        - {x: 153.5, y: 58.5}
+        - {x: 166.5, y: 43.5}
+        - {x: 178.5, y: 43.5}
+        - {x: 191.5, y: 59.5}
+        - {x: 191.5, y: 84.5}
+        - {x: 186.5, y: 85.5}
+      - - {x: 317.5, y: 85.5}
+        - {x: 313.5, y: 81.5}
+        - {x: 313.5, y: 54.5}
+        - {x: 320.5, y: 43.5}
+        - {x: 345.5, y: 43.5}
+        - {x: 349.5, y: 44.5}
+        - {x: 355.5, y: 55.5}
+        - {x: 355.5, y: 78.5}
+        - {x: 345.5, y: 85.5}
+      - - {x: 205.5, y: 88.5}
+        - {x: 191.5, y: 74.5}
+        - {x: 191.5, y: 58.5}
+        - {x: 197.5, y: 45.5}
+        - {x: 233.5, y: 45.5}
+        - {x: 235.5, y: 59.5}
+        - {x: 235.5, y: 80.5}
+        - {x: 219.5, y: 88.5}
+      - - {x: 240.5, y: 86.5}
+        - {x: 239.5, y: 85.5}
+        - {x: 239.5, y: 53.5}
+        - {x: 242.5, y: 46.5}
+        - {x: 260.5, y: 46.5}
+        - {x: 270.5, y: 54.5}
+        - {x: 270.5, y: 80.5}
+        - {x: 268.5, y: 86.5}
+      - - {x: -497.5, y: 269.5}
+        - {x: -502.5, y: 248.5}
+        - {x: -502.5, y: 66.5}
+        - {x: -498.5, y: 60.5}
+        - {x: -251.5, y: 60.5}
+        - {x: -246.5, y: 62.5}
+        - {x: -246.5, y: 248.5}
+        - {x: -271.5, y: 269.5}
+      - - {x: -41.5, y: 270.5}
+        - {x: -208.5, y: 270.5}
+        - {x: -234.5, y: 255.5}
+        - {x: -234.5, y: 72.5}
+        - {x: -231.5, y: 68.5}
+        - {x: -21.5, y: 68.5}
+        - {x: -19.5, y: 70.5}
+        - {x: -19.5, y: 258.5}
+      - - {x: 105.5, y: 106.5}
+        - {x: 105.5, y: 94.5}
+        - {x: 106.5, y: 92.5}
+        - {x: 260.5, y: 92.5}
+        - {x: 261.5, y: 96.5}
+        - {x: 261.5, y: 106.5}
+      - - {x: 9.5, y: 145.5}
+        - {x: 7.5, y: 142.5}
+        - {x: 7.5, y: 110.5}
+        - {x: 529.5, y: 110.5}
+        - {x: 529.5, y: 144.5}
+        - {x: 528.5, y: 145.5}
+      - - {x: 424.5, y: 245.5}
+        - {x: 362.5, y: 268.5}
+        - {x: 134.5, y: 268.5}
+        - {x: 36.5, y: 260.5}
+        - {x: 36.5, y: 152.5}
+        - {x: 38.5, y: 151.5}
+        - {x: 424.5, y: 151.5}
+        - {x: 428.5, y: 155.5}
+        - {x: 428.5, y: 242.5}
+      tessellationDetail: 0
+    - name: Window_1
+      rect:
+        serializedVersion: 2
+        x: 4182
+        y: 4592
+        width: 2012
+        height: 1627
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 2, w: 0}
+      outline:
+      - - {x: -110.75, y: 102}
+        - {x: -125.75, y: 91}
+        - {x: -125.75, y: -102}
+        - {x: 127.25, y: -102}
+        - {x: 127.25, y: 93}
+        - {x: 116.25, y: 102}
+      tessellationDetail: 0
+    - name: Window_2
+      rect:
+        serializedVersion: 2
+        x: 6325
+        y: 4646
+        width: 1692
+        height: 1593
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93.875, y: 100.75}
+        - {x: -105.875, y: 99.75}
+        - {x: -105.875, y: -99.25}
+        - {x: 107.125, y: -99.25}
+        - {x: 107.125, y: 97.75}
+        - {x: 103.125, y: 100.75}
+      tessellationDetail: 0
+    - name: Window_3
+      rect:
+        serializedVersion: 2
+        x: 8504
+        y: 5315
+        width: 3098
+        height: 909
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -148, y: 57.375}
+        - {x: -194, y: 35.375}
+        - {x: -194, y: -56.625}
+        - {x: 194, y: -56.625}
+        - {x: 194, y: 52.375}
+        - {x: 147, y: 57.375}
+      tessellationDetail: 0
+    - name: Window_4
+      rect:
+        serializedVersion: 2
+        x: 8261
+        y: 4980
+        width: 4152
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -259.375, y: 17.5}
+        - {x: -259.375, y: -16.5}
+        - {x: 260.625, y: -16.5}
+        - {x: 260.625, y: 17.5}
+      tessellationDetail: 0
+    - name: Window_5
+      rect:
+        serializedVersion: 2
+        x: 4012
+        y: 2116
+        width: 3367
+        height: 2348
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -205.5, y: 147.5}
+        - {x: -210.5, y: 144.5}
+        - {x: -210.5, y: -146.5}
+        - {x: 211.5, y: -146.5}
+        - {x: 211.5, y: 143.5}
+        - {x: 186.5, y: 147.5}
+      tessellationDetail: 0
+    - name: Window_6
+      rect:
+        serializedVersion: 2
+        x: 7506
+        y: 2484
+        width: 2028
+        height: 1649
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -110.75, y: 104}
+        - {x: -126.75, y: 82}
+        - {x: -126.75, y: -103}
+        - {x: 127.25, y: -103}
+        - {x: 127.25, y: 83}
+        - {x: 106.25, y: 104}
+      tessellationDetail: 0
+    - name: Window_7
+      rect:
+        serializedVersion: 2
+        x: 8239
+        y: 4215
+        width: 663
+        height: 745
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.125, y: 47.875}
+        - {x: -41.125, y: -46.125}
+        - {x: 42.875, y: -46.125}
+        - {x: 42.875, y: 47.875}
+      tessellationDetail: 0
+    - name: Window_8
+      rect:
+        serializedVersion: 2
+        x: 9050
+        y: 4849
+        width: 1211
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Window_9
+      rect:
+        serializedVersion: 2
+        x: 9044
+        y: 4438
+        width: 344
+        height: 342
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.5, y: 22.75}
+        - {x: -16.5, y: 22.75}
+        - {x: -20.5, y: 10.75}
+        - {x: -20.5, y: -17.25}
+        - {x: -12.5, y: -20.25}
+        - {x: 12.5, y: -20.25}
+        - {x: 21.5, y: -11.25}
+        - {x: 21.5, y: 13.75}
+      tessellationDetail: 0
+    - name: Window_10
+      rect:
+        serializedVersion: 2
+        x: 9434
+        y: 4449
+        width: 269
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.75, y: 20.125}
+        - {x: -16.75, y: -11.875}
+        - {x: -9.75, y: -19.875}
+        - {x: 5.25, y: -19.875}
+        - {x: 17.25, y: -10.875}
+        - {x: 17.25, y: 20.125}
+      tessellationDetail: 0
+    - name: Window_11
+      rect:
+        serializedVersion: 2
+        x: 9735
+        y: 4468
+        width: 320
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.375, y: 21}
+        - {x: -5.625, y: 21}
+        - {x: -19.625, y: 9}
+        - {x: -19.625, y: -5}
+        - {x: -14.625, y: -20}
+        - {x: 16.375, y: -20}
+        - {x: 19.375, y: -13}
+        - {x: 21.375, y: -5}
+        - {x: 21.375, y: 12}
+      tessellationDetail: 0
+    - name: Window_12
+      rect:
+        serializedVersion: 2
+        x: 10124
+        y: 4476
+        width: 209
+        height: 296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Window_13
+      rect:
+        serializedVersion: 2
+        x: 10371
+        y: 4447
+        width: 295
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.625, y: 20.875}
+        - {x: -9.625, y: 18.875}
+        - {x: -18.625, y: 2.875}
+        - {x: -18.625, y: -19.125}
+        - {x: -11.625, y: -19.125}
+        - {x: 17.375, y: 1.875}
+        - {x: 19.375, y: 5.875}
+        - {x: 19.375, y: 20.875}
+      tessellationDetail: 0
+    - name: Window_14
+      rect:
+        serializedVersion: 2
+        x: 10710
+        y: 4456
+        width: 308
+        height: 309
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.75, y: 19.5}
+        - {x: -11.25, y: 19.5}
+        - {x: -19.25, y: 15.5}
+        - {x: -19.25, y: -11.5}
+        - {x: -11.25, y: -19.5}
+        - {x: 11.75, y: -19.5}
+        - {x: 19.75, y: -14.5}
+        - {x: 20.75, y: -12.5}
+        - {x: 20.75, y: 13.5}
+      tessellationDetail: 0
+    - name: Window_15
+      rect:
+        serializedVersion: 2
+        x: 11138
+        y: 4355
+        width: 1377
+        height: 517
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -86.25, y: 32.875}
+        - {x: -86.25, y: -32.125}
+        - {x: 86.75, y: -32.125}
+        - {x: 86.75, y: 32.875}
+      tessellationDetail: 0
+    - name: Window_16
+      rect:
+        serializedVersion: 2
+        x: 10830
+        y: 3919
+        width: 1539
+        height: 348
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -96.25, y: 23.375}
+        - {x: -96.25, y: -21.625}
+        - {x: 97.75, y: -21.625}
+        - {x: 97.75, y: 23.375}
+      tessellationDetail: 0
+    - name: Window_17
+      rect:
+        serializedVersion: 2
+        x: 9664
+        y: 3041
+        width: 90
+        height: 1332
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Window_18
+      rect:
+        serializedVersion: 2
+        x: 9874
+        y: 4052
+        width: 173
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Window_19
+      rect:
+        serializedVersion: 2
+        x: 10084
+        y: 3942
+        width: 574
+        height: 83
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Window_20
+      rect:
+        serializedVersion: 2
+        x: 10085
+        y: 3830
+        width: 569
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Window_21
+      rect:
+        serializedVersion: 2
+        x: 10083
+        y: 3706
+        width: 573
+        height: 82
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Window_22
+      rect:
+        serializedVersion: 2
+        x: 9861
+        y: 3476
+        width: 558
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Window_23
+      rect:
+        serializedVersion: 2
+        x: 11243
+        y: 3724
+        width: 113
+        height: 191
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Window_24
+      rect:
+        serializedVersion: 2
+        x: 10047
+        y: 4053
+        width: 668
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

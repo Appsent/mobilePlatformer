@@ -1,0 +1,95 @@
+fileFormatVersion: 2
+guid: e417bbc42df117541b93ec6e897c80a8
+timeCreated: 1471782388
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Hurt (1)_0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Hurt (1)_0
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 26
+        width: 336
+        height: 461
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 124, y: 235.11}
+        - {x: -35, y: 235.11}
+        - {x: -130, y: -18.89}
+        - {x: -168, y: -133.89}
+        - {x: -168, y: -162.89}
+        - {x: -73, y: -138.89}
+        - {x: -52, y: -102.89}
+        - {x: -51, y: -98.89}
+        - {x: -51, y: -61.89}
+        - {x: -51, y: -91.89}
+        - {x: -50, y: -95.89}
+        - {x: -56, y: -225.89}
+        - {x: 148, y: -225.89}
+        - {x: 168, y: -44.89}
+        - {x: 168, y: 199.11}
+        - {x: 138, y: 233.11}
+      - - {x: 26, y: -174.89}
+        - {x: 21, y: -133.89}
+        - {x: 30, y: -110.89}
+        - {x: 38, y: -179.89}
+      - - {x: -45, y: 60.11}
+        - {x: -40, y: 58.11}
+        - {x: -31, y: 47.11}
+        - {x: -33, y: 43.11}
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

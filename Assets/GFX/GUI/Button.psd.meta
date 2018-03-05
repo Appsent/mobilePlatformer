@@ -1,0 +1,360 @@
+fileFormatVersion: 2
+guid: 6cd386e30d981bd46b6f9c2ae7c76472
+timeCreated: 1469056170
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Button_0
+    21300002: Button_1
+    21300004: Button_2
+    21300006: Button_3
+    21300008: Button_4
+    21300010: Button_5
+    21300012: Button_6
+    21300014: Button_7
+    21300016: Button_8
+    21300018: Button_9
+    21300020: Button_10
+    21300022: Button_11
+    21300024: Button_12
+    21300026: Button_13
+    21300028: Button_14
+    21300030: Button_15
+    21300032: Button_16
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Button_0
+      rect:
+        serializedVersion: 2
+        x: 3547
+        y: 13636
+        width: 426
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.625, y: -27}
+        - {x: 27.375, y: -27}
+        - {x: 27.375, y: 28}
+        - {x: -20.625, y: 28}
+        - {x: -26.625, y: 27}
+      tessellationDetail: 0
+    - name: Button_1
+      rect:
+        serializedVersion: 2
+        x: 2992
+        y: 13161
+        width: 1027
+        height: 432
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60.5, y: 27.625}
+        - {x: -64.5, y: 22.625}
+        - {x: -64.5, y: -24.375}
+        - {x: -62.5, y: -27.375}
+        - {x: 64.5, y: -27.375}
+        - {x: 64.5, y: 27.625}
+      tessellationDetail: 0
+    - name: Button_2
+      rect:
+        serializedVersion: 2
+        x: 4071
+        y: 13164
+        width: 1027
+        height: 436
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.125, y: 28}
+        - {x: -64.125, y: -27}
+        - {x: 65.875, y: -27}
+        - {x: 65.875, y: 28}
+      tessellationDetail: 0
+    - name: Button_3
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 11135
+        width: 454
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.5, y: 29.375}
+        - {x: -28.5, y: 29.375}
+        - {x: -28.5, y: -26.625}
+        - {x: -23.5, y: -27.625}
+        - {x: 23.5, y: -27.625}
+        - {x: 28.5, y: -23.625}
+        - {x: 28.5, y: 22.375}
+      tessellationDetail: 0
+    - name: Button_4
+      rect:
+        serializedVersion: 2
+        x: 2003
+        y: 10601
+        width: 443
+        height: 452
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.625, y: 28.625}
+        - {x: -27.625, y: 22.625}
+        - {x: -27.625, y: -27.375}
+        - {x: -25.625, y: -28.375}
+        - {x: 27.375, y: -28.375}
+        - {x: 28.375, y: -26.375}
+        - {x: 28.375, y: 23.625}
+        - {x: 22.375, y: 28.625}
+      tessellationDetail: 0
+    - name: Button_5
+      rect:
+        serializedVersion: 2
+        x: 2007
+        y: 10116
+        width: 437
+        height: 429
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.125, y: 28}
+        - {x: -27.125, y: 24}
+        - {x: -27.125, y: -25}
+        - {x: -26.125, y: -27}
+        - {x: 28.875, y: -27}
+        - {x: 28.875, y: 24}
+        - {x: 23.875, y: 28}
+      tessellationDetail: 0
+    - name: Button_6
+      rect:
+        serializedVersion: 2
+        x: 2003
+        y: 9561
+        width: 439
+        height: 440
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.375, y: -27.875}
+        - {x: 28.375, y: 22.125}
+        - {x: 27.375, y: 27.125}
+        - {x: -27.625, y: 27.125}
+        - {x: -27.625, y: -27.875}
+      tessellationDetail: 0
+    - name: Button_7
+      rect:
+        serializedVersion: 2
+        x: 4151
+        y: 12166
+        width: 444
+        height: 442
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.625, y: -27.25}
+        - {x: 29.375, y: -27.25}
+        - {x: 29.375, y: 28.75}
+        - {x: -27.625, y: 28.75}
+        - {x: -27.625, y: -24.25}
+      tessellationDetail: 0
+    - name: Button_8
+      rect:
+        serializedVersion: 2
+        x: 4150
+        y: 4847
+        width: 444
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.75, y: 28.375}
+        - {x: -27.75, y: -27.625}
+        - {x: 29.25, y: -27.625}
+        - {x: 29.25, y: 28.375}
+      tessellationDetail: 0
+    - name: Button_9
+      rect:
+        serializedVersion: 2
+        x: 4152
+        y: 5895
+        width: 445
+        height: 444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 29.375}
+        - {x: -28, y: 27.375}
+        - {x: -28, y: -27.625}
+        - {x: 26, y: -27.625}
+        - {x: 28, y: -23.625}
+        - {x: 28, y: 28.375}
+        - {x: 25, y: 29.375}
+      tessellationDetail: 0
+    - name: Button_10
+      rect:
+        serializedVersion: 2
+        x: 1999
+        y: 6404
+        width: 447
+        height: 449
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.625, y: 29}
+        - {x: -27.625, y: 22}
+        - {x: -27.625, y: -18}
+        - {x: -26.625, y: -25}
+        - {x: -23.625, y: -28}
+        - {x: 21.375, y: -28}
+        - {x: 29.375, y: -27}
+        - {x: 29.375, y: 24}
+        - {x: 23.375, y: 29}
+      tessellationDetail: 0
+    - name: Button_11
+      rect:
+        serializedVersion: 2
+        x: 4109
+        y: 1832
+        width: 682
+        height: 800
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.375, y: 50}
+        - {x: -41.375, y: -50}
+        - {x: 43.625, y: -50}
+        - {x: 43.625, y: 50}
+      tessellationDetail: 0
+    - name: Button_12
+      rect:
+        serializedVersion: 2
+        x: 4842
+        y: 1836
+        width: 675
+        height: 800
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.25, y: 50}
+        - {x: -42.25, y: -50}
+        - {x: 37.75, y: -50}
+        - {x: 42.75, y: -46}
+        - {x: 42.75, y: 46}
+        - {x: 34.75, y: 50}
+      tessellationDetail: 0
+    - name: Button_13
+      rect:
+        serializedVersion: 2
+        x: 3481
+        y: 2029
+        width: 194
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Button_14
+      rect:
+        serializedVersion: 2
+        x: 1996
+        y: 9037
+        width: 451
+        height: 435
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 28.125}
+        - {x: -28, y: -26.875}
+        - {x: 29, y: -26.875}
+        - {x: 29, y: 28.125}
+      tessellationDetail: 0
+    - name: Button_15
+      rect:
+        serializedVersion: 2
+        x: 3473
+        y: 2225
+        width: 382
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Button_16
+      rect:
+        serializedVersion: 2
+        x: 3476
+        y: 2410
+        width: 554
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

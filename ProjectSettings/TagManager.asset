@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - LevelButton
+  - Edge
+  - projectile
+  - attacktrigger
+  - Enemy
+  - sword
+  - bomb
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Platforms
+  - Ignore
+  - Projectiles
+  - Player
+  - Enemies
+  - PassablePlatforms
+  - Bomb
+  - BombIgnore
+  - 
+  - Sneak
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BG
+    uniqueID: 1628777297
+    locked: 0
+  - name: FG
+    uniqueID: 2205596897
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: UI
+    uniqueID: 121878369
+    locked: 0

@@ -1,0 +1,89 @@
+fileFormatVersion: 2
+guid: ddd96c85cd28b7446ab18892bb228a12
+timeCreated: 1471782612
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Hurt (5)_0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Hurt (5)_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 41
+        width: 461
+        height: 397
+      alignment: 9
+      pivot: {x: 0.505, y: 0.555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 142.195, y: 176.66498}
+        - {x: 16.195007, y: 138.66498}
+        - {x: 4.1950073, y: 117.66498}
+        - {x: 4.1950073, y: 97.66498}
+        - {x: -11.804993, y: 110.66498}
+        - {x: -36.804993, y: 106.66498}
+        - {x: -232.805, y: 8.664978}
+        - {x: -232.805, y: -1.335022}
+        - {x: -227.805, y: -3.335022}
+        - {x: -172.805, y: -11.335022}
+        - {x: -169.805, y: -50.335022}
+        - {x: -103.80499, y: -54.335022}
+        - {x: -147.805, y: -173.33502}
+        - {x: -126.80499, y: -220.33502}
+        - {x: 132.195, y: -220.33502}
+        - {x: 228.195, y: -147.33502}
+        - {x: 228.195, y: 126.66498}
+        - {x: 184.195, y: 176.66498}
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

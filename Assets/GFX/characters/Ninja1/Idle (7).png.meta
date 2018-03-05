@@ -1,0 +1,88 @@
+fileFormatVersion: 2
+guid: c44132e417a1132449825b30865ac554
+timeCreated: 1471727244
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Idle (7)_0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Idle (7)_0
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 87
+        width: 350
+        height: 437
+      alignment: 9
+      pivot: {x: 0.524, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 115.600006, y: -8.5}
+        - {x: 112.600006, y: -8.5}
+        - {x: 112.600006, y: -5.5}
+        - {x: 110.600006, y: -0.5}
+        - {x: 112.600006, y: -2.5}
+        - {x: 112.600006, y: -5.5}
+        - {x: 114.600006, y: -7.5}
+        - {x: 120.600006, y: -9.5}
+        - {x: 162.6, y: 11.5}
+        - {x: 162.6, y: 217.5}
+        - {x: -60.399994, y: 217.5}
+        - {x: -183.4, y: -105.5}
+        - {x: -183.4, y: -149.5}
+        - {x: -165.4, y: -218.5}
+        - {x: 164.6, y: -218.5}
+        - {x: 164.6, y: -172.5}
+        - {x: 124.600006, y: -21.5}
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

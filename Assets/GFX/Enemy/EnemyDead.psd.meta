@@ -1,0 +1,421 @@
+fileFormatVersion: 2
+guid: cda9fe00f1f4dc24d8188b2ca57b1c17
+timeCreated: 1472773576
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: EnemyDead_0
+    21300002: EnemyDead_1
+    21300004: EnemyDead_2
+    21300006: EnemyDead_3
+    21300008: EnemyDead_4
+    21300010: EnemyDead_5
+    21300012: EnemyDead_6
+    21300014: EnemyDead_7
+    21300016: EnemyDead_8
+    21300018: EnemyDead_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: EnemyDead_0
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1536
+        width: 291
+        height: 494
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 145.5, y: 247}
+        - {x: -110.5, y: 247}
+        - {x: -131.5, y: 238}
+        - {x: -145.5, y: 181}
+        - {x: -145.5, y: -37}
+        - {x: -112.5, y: -240}
+        - {x: -101.5, y: -244}
+        - {x: -50.5, y: -247}
+        - {x: 10.5, y: -247}
+        - {x: 72.5, y: -238}
+        - {x: 135.5, y: -90}
+        - {x: 145.5, y: -46}
+      - - {x: -40.5, y: -201}
+        - {x: -27.5, y: -175}
+        - {x: -22.5, y: -173}
+        - {x: -19.5, y: -196}
+      tessellationDetail: 0
+    - name: EnemyDead_1
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1536
+        width: 322
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -106, y: 231}
+        - {x: -161, y: 106}
+        - {x: -161, y: -149}
+        - {x: -114, y: -143}
+        - {x: -100, y: -120}
+        - {x: -94, y: -107}
+        - {x: -91, y: -109}
+        - {x: -138, y: -187}
+        - {x: -145, y: -218}
+        - {x: -140, y: -222}
+        - {x: -118, y: -231}
+        - {x: 34, y: -231}
+        - {x: 161, y: -73}
+        - {x: 161, y: 205}
+        - {x: 136, y: 231}
+      - - {x: -76, y: 2}
+        - {x: -66, y: 10}
+        - {x: -65, y: 8}
+        - {x: -63, y: 6}
+        - {x: -62, y: 4}
+        - {x: -63, y: 5}
+        - {x: -66, y: 5}
+        - {x: -68, y: 6}
+        - {x: -69, y: 5}
+        - {x: -75, y: 5}
+        - {x: -78, y: 3}
+        - {x: -78, y: 2}
+      tessellationDetail: 0
+    - name: EnemyDead_2
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 1537
+        width: 386
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 100, y: 180.5}
+        - {x: 99, y: 173.5}
+        - {x: 91, y: 180.5}
+        - {x: 85, y: 182.5}
+        - {x: 63, y: 216.5}
+        - {x: 59, y: 216.5}
+        - {x: 50, y: 202.5}
+        - {x: 22, y: 226.5}
+        - {x: -49, y: 226.5}
+        - {x: -165, y: 93.5}
+        - {x: -113, y: 41.5}
+        - {x: -89, y: 23.5}
+        - {x: -78, y: 20.5}
+        - {x: -97, y: 4.5}
+        - {x: -131, y: -34.5}
+        - {x: -193, y: -141.5}
+        - {x: -193, y: -169.5}
+        - {x: -168, y: -226.5}
+        - {x: 119, y: -226.5}
+        - {x: 193, y: -49.5}
+        - {x: 193, y: 200.5}
+        - {x: 141, y: 197.5}
+      tessellationDetail: 0
+    - name: EnemyDead_3
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 1571
+        width: 435
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 148.5, y: 109.5}
+        - {x: 140.5, y: 91.5}
+        - {x: 143.5, y: 119.5}
+        - {x: 144.5, y: 167.5}
+        - {x: 118.5, y: 191.5}
+        - {x: -65.5, y: 191.5}
+        - {x: -217.5, y: 17.5}
+        - {x: -217.5, y: -191.5}
+        - {x: 138.5, y: -191.5}
+        - {x: 217.5, y: -51.5}
+        - {x: 217.5, y: 96.5}
+        - {x: 154.5, y: 112.5}
+      - - {x: 16.5, y: -108.5}
+        - {x: 15.5, y: -107.5}
+        - {x: 14.5, y: -103.5}
+        - {x: 10.5, y: -99.5}
+        - {x: 7.5, y: -99.5}
+        - {x: 4.5, y: -96.5}
+        - {x: 8.5, y: -97.5}
+        - {x: 13.5, y: -103.5}
+        - {x: 14.5, y: -103.5}
+        - {x: 22.5, y: -111.5}
+        - {x: 22.5, y: -110.5}
+        - {x: 16.5, y: -115.5}
+      tessellationDetail: 0
+    - name: EnemyDead_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1030
+        width: 475
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: -113}
+        - {x: -20.5, y: -114}
+        - {x: -15.5, y: -116}
+        - {x: -16.5, y: -137}
+        - {x: -10.5, y: -157}
+        - {x: 123.5, y: -157}
+        - {x: 237.5, y: -92}
+        - {x: 237.5, y: 72}
+        - {x: 170.5, y: 157}
+        - {x: 49.5, y: 157}
+        - {x: -81.5, y: 77}
+        - {x: -64.5, y: 37}
+        - {x: -40.5, y: 29}
+        - {x: -39.5, y: 15}
+        - {x: -36.5, y: 12}
+        - {x: -52.5, y: 12}
+        - {x: -68.5, y: 8}
+        - {x: -212.5, y: -52}
+        - {x: -237.5, y: -140}
+        - {x: -237.5, y: -152}
+        - {x: -234.5, y: -154}
+        - {x: -223.5, y: -157}
+        - {x: -70.5, y: -157}
+        - {x: -24.5, y: -146}
+        - {x: -17.5, y: -131}
+        - {x: -19.5, y: -120}
+      tessellationDetail: 0
+    - name: EnemyDead_5
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 1024
+        width: 491
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 133.5, y: 161.5}
+        - {x: 18.5, y: 161.5}
+        - {x: -98.5, y: 103.5}
+        - {x: -245.5, y: -93.5}
+        - {x: -245.5, y: -136.5}
+        - {x: -209.5, y: -161.5}
+        - {x: 173.5, y: -161.5}
+        - {x: 245.5, y: -52.5}
+        - {x: 245.5, y: 55.5}
+        - {x: 234.5, y: 83.5}
+      - - {x: -28.5, y: -2.5}
+        - {x: -30.5, y: -0.5}
+        - {x: -34.5, y: -1.5}
+        - {x: -24.5, y: -2.5}
+      tessellationDetail: 0
+    - name: EnemyDead_6
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 1025
+        width: 478
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 227, y: 92}
+        - {x: 220, y: 88}
+        - {x: 210, y: 81}
+        - {x: 189, y: 122}
+        - {x: 143, y: 159}
+        - {x: -2, y: 159}
+        - {x: -36, y: 152}
+        - {x: 10, y: 56}
+        - {x: 22, y: 43}
+        - {x: 19, y: 39}
+        - {x: 25, y: 35}
+        - {x: 9, y: 49}
+        - {x: 6, y: 50}
+        - {x: -40, y: 45}
+        - {x: -60, y: 9}
+        - {x: -58, y: 3}
+        - {x: -81, y: -21}
+        - {x: -179, y: -30}
+        - {x: -239, y: -95}
+        - {x: -239, y: -150}
+        - {x: -200, y: -159}
+        - {x: 194, y: -159}
+        - {x: 239, y: -60}
+        - {x: 239, y: 89}
+        - {x: 230, y: 93}
+      tessellationDetail: 0
+    - name: EnemyDead_7
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 545
+        width: 478
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 227, y: 92}
+        - {x: 220, y: 88}
+        - {x: 210, y: 81}
+        - {x: 189, y: 122}
+        - {x: 143, y: 159}
+        - {x: -2, y: 159}
+        - {x: -36, y: 152}
+        - {x: 10, y: 56}
+        - {x: 22, y: 43}
+        - {x: 19, y: 39}
+        - {x: 25, y: 35}
+        - {x: 9, y: 49}
+        - {x: 6, y: 50}
+        - {x: -40, y: 45}
+        - {x: -60, y: 9}
+        - {x: -58, y: 3}
+        - {x: -81, y: -21}
+        - {x: -179, y: -30}
+        - {x: -239, y: -95}
+        - {x: -239, y: -150}
+        - {x: -200, y: -159}
+        - {x: 194, y: -159}
+        - {x: 239, y: -60}
+        - {x: 239, y: 89}
+        - {x: 230, y: 93}
+      tessellationDetail: 0
+    - name: EnemyDead_8
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 507
+        width: 478
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 227, y: 92.5}
+        - {x: 220, y: 88.5}
+        - {x: 210, y: 81.5}
+        - {x: 189, y: 122.5}
+        - {x: 143, y: 159.5}
+        - {x: -2, y: 159.5}
+        - {x: -36, y: 152.5}
+        - {x: 10, y: 56.5}
+        - {x: 22, y: 43.5}
+        - {x: 19, y: 39.5}
+        - {x: 25, y: 35.5}
+        - {x: 9, y: 49.5}
+        - {x: 6, y: 50.5}
+        - {x: -40, y: 45.5}
+        - {x: -60, y: 9.5}
+        - {x: -58, y: 3.5}
+        - {x: -81, y: -20.5}
+        - {x: -179, y: -29.5}
+        - {x: -239, y: -94.5}
+        - {x: -239, y: -107.5}
+        - {x: -235, y: -113.5}
+        - {x: -217, y: -131.5}
+        - {x: -56, y: -159.5}
+        - {x: 197, y: -159.5}
+        - {x: 239, y: -51.5}
+        - {x: 239, y: 88.5}
+        - {x: 230, y: 93.5}
+      tessellationDetail: 0
+    - name: EnemyDead_9
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 59
+        width: 478
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 227, y: 92.5}
+        - {x: 220, y: 88.5}
+        - {x: 210, y: 81.5}
+        - {x: 189, y: 122.5}
+        - {x: 143, y: 159.5}
+        - {x: -2, y: 159.5}
+        - {x: -36, y: 152.5}
+        - {x: 10, y: 56.5}
+        - {x: 22, y: 43.5}
+        - {x: 19, y: 39.5}
+        - {x: 25, y: 35.5}
+        - {x: 9, y: 49.5}
+        - {x: 6, y: 50.5}
+        - {x: -40, y: 45.5}
+        - {x: -60, y: 9.5}
+        - {x: -58, y: 3.5}
+        - {x: -81, y: -20.5}
+        - {x: -179, y: -29.5}
+        - {x: -239, y: -94.5}
+        - {x: -239, y: -107.5}
+        - {x: -235, y: -113.5}
+        - {x: -217, y: -131.5}
+        - {x: -56, y: -159.5}
+        - {x: 197, y: -159.5}
+        - {x: 239, y: -51.5}
+        - {x: 239, y: 88.5}
+        - {x: 230, y: 93.5}
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

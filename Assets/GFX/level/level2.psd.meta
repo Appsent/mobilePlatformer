@@ -1,0 +1,813 @@
+fileFormatVersion: 2
+guid: bd873a50848d258458f507ab4943fb72
+timeCreated: 1463320651
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: level2_0
+    21300002: level2_1
+    21300004: level2_2
+    21300006: level2_3
+    21300008: level2_4
+    21300010: level2_5
+    21300012: level2_6
+    21300014: level2_7
+    21300016: level2_8
+    21300018: level2_9
+    21300020: level2_10
+    21300022: level2_11
+    21300024: level2_12
+    21300026: level2_13
+    21300028: level2_14
+    21300030: level2_15
+    21300032: level2_16
+    21300034: level2_17
+    21300036: level2_18
+    21300038: level2_19
+    21300040: level2_20
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: level2_0
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1728
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+    - name: level2_1
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1728
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+    - name: level2_2
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1728
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+    - name: level2_3
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1728
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+    - name: level2_4
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 1850
+        width: 242
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -120, y: 67}
+        - {x: -121, y: 65}
+        - {x: -121, y: -67}
+        - {x: 121, y: -67}
+        - {x: 121, y: 67}
+      tessellationDetail: 0
+    - name: level2_5
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1867
+        width: 256
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -94, y: -51.5}
+        - {x: -87, y: -58.5}
+        - {x: 128, y: -58.5}
+        - {x: 128, y: 58.5}
+        - {x: -128, y: 58.5}
+        - {x: -128, y: -47.5}
+        - {x: -116, y: -58.5}
+        - {x: -100, y: -58.5}
+        - {x: -97, y: -56.5}
+        - {x: -96, y: -48.5}
+        - {x: -96, y: -44.5}
+        - {x: -96, y: -46.5}
+      tessellationDetail: 0
+    - name: level2_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1530
+        width: 240
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -114, y: -67}
+        - {x: 99, y: -67}
+        - {x: 120, y: -44}
+        - {x: 120, y: 64}
+        - {x: 119, y: 67}
+        - {x: -120, y: 67}
+        - {x: -120, y: -65}
+      tessellationDetail: 0
+    - name: level2_7
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1472
+        width: 256
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -125, y: 96}
+        - {x: -128, y: 93}
+        - {x: -128, y: -14}
+        - {x: -40, y: -76}
+        - {x: 97, y: -96}
+        - {x: 128, y: -96}
+        - {x: 128, y: 92}
+        - {x: 122, y: 96}
+      - - {x: -41, y: -28}
+        - {x: -44, y: -26}
+        - {x: -56, y: -20}
+        - {x: -55, y: -5}
+        - {x: -55, y: -2}
+        - {x: -54, y: -7}
+        - {x: -51, y: -11}
+        - {x: -46, y: -18}
+        - {x: -33, y: -31}
+        - {x: -35, y: -29}
+      - - {x: -5, y: -15}
+        - {x: -6, y: -14}
+        - {x: -8, y: -14}
+        - {x: -11, y: -12}
+        - {x: -14, y: -12}
+        - {x: -13, y: -11}
+        - {x: -14, y: -7}
+        - {x: -15, y: -8}
+        - {x: -10, y: -13}
+        - {x: -5, y: -13}
+        - {x: 0, y: -17}
+        - {x: -2, y: -15}
+      - - {x: 44, y: -14}
+        - {x: 38, y: -11}
+        - {x: 36, y: -11}
+        - {x: 40, y: -9}
+        - {x: 44, y: -12}
+        - {x: 46, y: -15}
+        - {x: 46, y: -14}
+      tessellationDetail: 0
+    - name: level2_8
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1408
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 123, y: 128}
+        - {x: -115, y: 128}
+        - {x: -123, y: 117}
+        - {x: -128, y: 93}
+        - {x: -128, y: -128}
+        - {x: -123, y: -128}
+        - {x: 7, y: -84}
+        - {x: 128, y: 11}
+        - {x: 128, y: 124}
+      - - {x: 15, y: -17}
+        - {x: 19, y: -12}
+        - {x: 25, y: 1}
+        - {x: 52, y: 23}
+        - {x: 55, y: 28}
+        - {x: 55, y: 30}
+        - {x: 55, y: 28}
+        - {x: 61, y: 21}
+        - {x: 9, y: -27}
+        - {x: 8, y: -28}
+        - {x: 0, y: -30}
+        - {x: 2, y: -31}
+      - - {x: -41, y: -25}
+        - {x: -37, y: -24}
+        - {x: -29, y: 16}
+        - {x: -29, y: 34}
+        - {x: -30, y: 34}
+        - {x: -25, y: 23}
+        - {x: -22, y: 17}
+        - {x: 8, y: 21}
+        - {x: 10, y: 21}
+        - {x: 11, y: 23}
+        - {x: 2, y: 7}
+        - {x: -1, y: 4}
+        - {x: -26, y: -18}
+        - {x: -28, y: -20}
+        - {x: -42, y: -27}
+        - {x: -41, y: -27}
+      tessellationDetail: 0
+    - name: level2_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1474
+        width: 256
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: 95}
+        - {x: -128, y: -72}
+        - {x: 14, y: -95}
+        - {x: 128, y: -95}
+        - {x: 128, y: 78}
+        - {x: 127, y: 89}
+        - {x: 107, y: 95}
+      - - {x: -65, y: -14}
+        - {x: -61, y: -8}
+        - {x: -61, y: -4}
+        - {x: -61, y: -9}
+        - {x: -60, y: -13}
+      - - {x: -3, y: -17}
+        - {x: -3, y: -16}
+        - {x: -12, y: -14}
+        - {x: -8, y: -9}
+        - {x: -8, y: -6}
+        - {x: -9, y: -8}
+        - {x: -7, y: -10}
+        - {x: -7, y: -11}
+        - {x: 1, y: -18}
+        - {x: 0, y: -17}
+      - - {x: 43, y: -15}
+        - {x: 42, y: -14}
+        - {x: 37, y: -12}
+        - {x: 34, y: -11}
+        - {x: 34, y: -12}
+        - {x: 42, y: -4}
+        - {x: 42, y: -8}
+        - {x: 44, y: -14}
+        - {x: 46, y: -16}
+        - {x: 45, y: -15}
+      - - {x: 22, y: -4}
+        - {x: 25, y: -2}
+        - {x: 27, y: -8}
+        - {x: 27, y: -7}
+      tessellationDetail: 0
+    - name: level2_10
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 1489
+        width: 246
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -123, y: 87.5}
+        - {x: -123, y: -25.5}
+        - {x: -33, y: -74.5}
+        - {x: 53, y: -87.5}
+        - {x: 123, y: -87.5}
+        - {x: 123, y: 87.5}
+      - - {x: 30, y: -23.5}
+        - {x: 19, y: -13.5}
+        - {x: 22, y: -10.5}
+        - {x: 21, y: -10.5}
+        - {x: 22, y: -14.5}
+        - {x: 30, y: -21.5}
+        - {x: 33, y: -23.5}
+      - - {x: -45, y: -21.5}
+        - {x: -51, y: -18.5}
+        - {x: -54, y: -16.5}
+        - {x: -55, y: -16.5}
+        - {x: -52, y: -19.5}
+        - {x: -50, y: -19.5}
+        - {x: -40, y: -18.5}
+        - {x: -13, y: -30.5}
+        - {x: -10, y: -30.5}
+        - {x: -7, y: -28.5}
+        - {x: -6, y: -24.5}
+        - {x: -7, y: -25.5}
+        - {x: -4, y: -32.5}
+        - {x: -1, y: -35.5}
+      tessellationDetail: 0
+    - name: level2_11
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 1408
+        width: 258
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -129, y: 128}
+        - {x: -129, y: -128}
+        - {x: 15, y: -128}
+        - {x: 129, y: -113}
+        - {x: 129, y: 128}
+      - - {x: 9, y: -25}
+        - {x: 14, y: -20}
+        - {x: 23, y: -6}
+        - {x: 55, y: 21}
+        - {x: 58, y: 25}
+        - {x: 64, y: 31}
+        - {x: 62, y: 29}
+        - {x: 61, y: 24}
+        - {x: 59, y: 21}
+        - {x: 14, y: -24}
+        - {x: 7, y: -25}
+        - {x: 6, y: -27}
+        - {x: 8, y: -27}
+      - - {x: -40, y: -22}
+        - {x: -38, y: -18}
+        - {x: -33, y: -3}
+        - {x: -31, y: 17}
+        - {x: -31, y: 24}
+        - {x: -27, y: 28}
+        - {x: -28, y: 29}
+        - {x: -28, y: 26}
+        - {x: -25, y: 20}
+        - {x: -9, y: 5}
+        - {x: -1, y: 13}
+        - {x: 2, y: 20}
+        - {x: 2, y: 23}
+        - {x: 2, y: 22}
+        - {x: 5, y: 19}
+        - {x: 8, y: 19}
+        - {x: 8, y: 20}
+        - {x: 4, y: 14}
+        - {x: 2, y: 12}
+        - {x: -39, y: -23}
+        - {x: -41, y: -23}
+        - {x: -42, y: -25}
+        - {x: -40, y: -24}
+      tessellationDetail: 0
+    - name: level2_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1231
+        width: 252
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -126, y: 88.5}
+        - {x: -126, y: -88.5}
+        - {x: -38, y: -88.5}
+        - {x: 124, y: -56.5}
+        - {x: 126, y: -49.5}
+        - {x: 126, y: 85.5}
+        - {x: 124, y: 88.5}
+      - - {x: -62, y: -31.5}
+        - {x: -59, y: -14.5}
+        - {x: -59, y: -10.5}
+        - {x: -59, y: -15.5}
+        - {x: -57, y: -18.5}
+        - {x: -53, y: -19.5}
+        - {x: -46, y: -18.5}
+        - {x: -39, y: -25.5}
+        - {x: -38, y: -24.5}
+        - {x: -38, y: -23.5}
+        - {x: -44, y: -26.5}
+      - - {x: 1, y: -31.5}
+        - {x: 1, y: -28.5}
+        - {x: 5, y: -23.5}
+        - {x: 5, y: -21.5}
+        - {x: 7, y: -17.5}
+        - {x: 6, y: -13.5}
+        - {x: 5, y: -15.5}
+        - {x: 14, y: -25.5}
+        - {x: 15, y: -25.5}
+        - {x: 20, y: -20.5}
+        - {x: 32, y: -20.5}
+        - {x: 37, y: -18.5}
+        - {x: 46, y: -16.5}
+        - {x: 5, y: -30.5}
+        - {x: 4, y: -31.5}
+        - {x: 0, y: -31.5}
+        - {x: -1, y: -32.5}
+        - {x: 0, y: -32.5}
+      tessellationDetail: 0
+    - name: level2_13
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1199
+        width: 256
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: 104.5}
+        - {x: -128, y: -86.5}
+        - {x: -108, y: -104.5}
+        - {x: 128, y: -104.5}
+        - {x: 128, y: 104.5}
+      - - {x: -57, y: -27.5}
+        - {x: -63, y: -7.5}
+        - {x: -56, y: -23.5}
+        - {x: -35, y: -37.5}
+      - - {x: -8, y: -22.5}
+        - {x: -11, y: -20.5}
+        - {x: -21, y: -6.5}
+        - {x: -19, y: -3.5}
+        - {x: -20, y: -3.5}
+        - {x: -16, y: -7.5}
+        - {x: -15, y: -7.5}
+        - {x: -13, y: -5.5}
+        - {x: -14, y: -5.5}
+        - {x: -11, y: -8.5}
+        - {x: -11, y: -11.5}
+        - {x: -8, y: -17.5}
+        - {x: 0, y: -25.5}
+        - {x: -2, y: -23.5}
+      - - {x: 41, y: -21.5}
+        - {x: 36, y: -18.5}
+        - {x: 35, y: -2.5}
+        - {x: 39, y: 2.5}
+        - {x: 39, y: -3.5}
+        - {x: 40, y: -6.5}
+        - {x: 41, y: -11.5}
+        - {x: 44, y: -20.5}
+        - {x: 46, y: -23.5}
+        - {x: 46, y: -22.5}
+      tessellationDetail: 0
+    - name: level2_14
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1166
+        width: 256
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: 89}
+        - {x: -128, y: -17}
+        - {x: -108, y: -36}
+        - {x: -96, y: -26}
+        - {x: -96, y: -14}
+        - {x: -96, y: -16}
+        - {x: -92, y: -19}
+        - {x: -62, y: -41}
+        - {x: -128, y: -45}
+        - {x: -128, y: -89}
+        - {x: 128, y: -89}
+        - {x: 128, y: 89}
+      - - {x: 61, y: -35}
+        - {x: 58, y: -33}
+        - {x: 46, y: -17}
+        - {x: 49, y: -20}
+        - {x: 52, y: -20}
+        - {x: 57, y: -16}
+        - {x: 63, y: -31}
+        - {x: 65, y: -31}
+        - {x: 65, y: -36}
+        - {x: 66, y: -37}
+        - {x: 65, y: -36}
+      - - {x: -4, y: -31}
+        - {x: -5, y: -30}
+        - {x: -9, y: -30}
+        - {x: -10, y: -29}
+        - {x: -35, y: -21}
+        - {x: -37, y: -21}
+        - {x: -41, y: -18}
+        - {x: -38, y: -20}
+        - {x: -37, y: -20}
+        - {x: -12, y: -28}
+        - {x: -10, y: -27}
+        - {x: -7, y: -31}
+        - {x: -5, y: -31}
+        - {x: -2, y: -29}
+        - {x: -1, y: -25}
+        - {x: -2, y: -26}
+        - {x: 2, y: -32}
+        - {x: 0, y: -31}
+      tessellationDetail: 0
+    - name: level2_15
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1167
+        width: 248
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -124, y: 88.5}
+        - {x: -124, y: -36.5}
+        - {x: -20, y: -76.5}
+        - {x: 68, y: -88.5}
+        - {x: 124, y: -88.5}
+        - {x: 124, y: 88.5}
+      - - {x: 57, y: -35.5}
+        - {x: 54, y: -33.5}
+        - {x: 38, y: -24.5}
+        - {x: 34, y: -22.5}
+        - {x: 30, y: -19.5}
+        - {x: 22, y: -12.5}
+        - {x: 23, y: -15.5}
+        - {x: 28, y: -20.5}
+        - {x: 31, y: -22.5}
+        - {x: 33, y: -22.5}
+        - {x: 38, y: -18.5}
+        - {x: 43, y: -8.5}
+        - {x: 42, y: -8.5}
+        - {x: 42, y: -9.5}
+        - {x: 45, y: -15.5}
+        - {x: 52, y: -18.5}
+        - {x: 55, y: -14.5}
+        - {x: 60, y: -8.5}
+        - {x: 57, y: -10.5}
+        - {x: 57, y: -25.5}
+        - {x: 58, y: -31.5}
+        - {x: 59, y: -32.5}
+        - {x: 59, y: -35.5}
+        - {x: 60, y: -36.5}
+        - {x: 59, y: -35.5}
+      - - {x: -14, y: -29.5}
+        - {x: -17, y: -29.5}
+        - {x: -18, y: -28.5}
+        - {x: -21, y: -22.5}
+        - {x: -12, y: -31.5}
+        - {x: -10, y: -31.5}
+        - {x: -6, y: -28.5}
+      tessellationDetail: 0
+    - name: level2_16
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1093
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: -69, y: -128}
+        - {x: 128, y: -55}
+        - {x: 128, y: 128}
+      - - {x: 10, y: -25}
+        - {x: 15, y: -20}
+        - {x: 24, y: -6}
+        - {x: 56, y: 21}
+        - {x: 59, y: 25}
+        - {x: 65, y: 31}
+        - {x: 63, y: 29}
+        - {x: 62, y: 24}
+        - {x: 60, y: 21}
+        - {x: 15, y: -24}
+        - {x: 8, y: -25}
+        - {x: 7, y: -27}
+        - {x: 9, y: -27}
+      - - {x: -39, y: -22}
+        - {x: -37, y: -18}
+        - {x: -32, y: -3}
+        - {x: -30, y: 17}
+        - {x: -30, y: 24}
+        - {x: -26, y: 28}
+        - {x: -27, y: 29}
+        - {x: -27, y: 26}
+        - {x: -24, y: 20}
+        - {x: -8, y: 5}
+        - {x: 0, y: 13}
+        - {x: 3, y: 20}
+        - {x: 3, y: 23}
+        - {x: 3, y: 22}
+        - {x: 6, y: 19}
+        - {x: 9, y: 19}
+        - {x: 9, y: 20}
+        - {x: 5, y: 14}
+        - {x: 3, y: 12}
+        - {x: -38, y: -23}
+        - {x: -40, y: -23}
+        - {x: -41, y: -25}
+        - {x: -39, y: -24}
+      tessellationDetail: 0
+    - name: level2_17
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 1166
+        width: 256
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: 88.5}
+        - {x: -128, y: -16.5}
+        - {x: -107, y: -35.5}
+        - {x: -128, y: -47.5}
+        - {x: -128, y: -88.5}
+        - {x: 128, y: -88.5}
+        - {x: 128, y: 88.5}
+      - - {x: -65, y: -36.5}
+        - {x: -65, y: -33.5}
+        - {x: -64, y: -32.5}
+        - {x: -58, y: -31.5}
+        - {x: -55, y: -28.5}
+        - {x: -52, y: -31.5}
+        - {x: -50, y: -31.5}
+        - {x: -46, y: -27.5}
+        - {x: -44, y: -26.5}
+        - {x: -59, y: -34.5}
+        - {x: -61, y: -34.5}
+        - {x: -66, y: -37.5}
+      - - {x: 3, y: -24.5}
+        - {x: 4, y: -21.5}
+        - {x: 9, y: -20.5}
+        - {x: 13, y: -16.5}
+        - {x: 14, y: -14.5}
+        - {x: 17, y: -11.5}
+        - {x: 16, y: -11.5}
+        - {x: 21, y: -16.5}
+        - {x: 3, y: -30.5}
+        - {x: 2, y: -31.5}
+        - {x: -2, y: -31.5}
+        - {x: -3, y: -33.5}
+        - {x: -1, y: -33.5}
+      tessellationDetail: 0
+    - name: level2_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 911
+        width: 252
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -126, y: 88.5}
+        - {x: -126, y: -88.5}
+        - {x: -39, y: -88.5}
+        - {x: 126, y: -63.5}
+        - {x: 126, y: 84.5}
+        - {x: 124, y: 88.5}
+      - - {x: -62, y: -31.5}
+        - {x: -59, y: -14.5}
+        - {x: -59, y: -10.5}
+        - {x: -59, y: -15.5}
+        - {x: -57, y: -18.5}
+        - {x: -53, y: -19.5}
+        - {x: -46, y: -18.5}
+        - {x: -39, y: -25.5}
+        - {x: -38, y: -24.5}
+        - {x: -38, y: -23.5}
+        - {x: -44, y: -26.5}
+      - - {x: 1, y: -31.5}
+        - {x: 1, y: -28.5}
+        - {x: 5, y: -23.5}
+        - {x: 5, y: -21.5}
+        - {x: 7, y: -17.5}
+        - {x: 6, y: -13.5}
+        - {x: 5, y: -15.5}
+        - {x: 14, y: -25.5}
+        - {x: 15, y: -25.5}
+        - {x: 20, y: -20.5}
+        - {x: 32, y: -20.5}
+        - {x: 37, y: -18.5}
+        - {x: 46, y: -16.5}
+        - {x: 5, y: -30.5}
+        - {x: 4, y: -31.5}
+        - {x: 0, y: -31.5}
+        - {x: -1, y: -32.5}
+        - {x: 0, y: -32.5}
+      tessellationDetail: 0
+    - name: level2_19
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 842
+        width: 256
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: 100}
+        - {x: -128, y: -100}
+        - {x: 128, y: -100}
+        - {x: 128, y: 100}
+      tessellationDetail: 0
+    - name: level2_20
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,344 @@
+fileFormatVersion: 2
+guid: e7ed62e881dc175478f49f96f9dd04df
+timeCreated: 1472588098
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: EnemyIdle_0
+    21300002: EnemyIdle_1
+    21300004: EnemyIdle_2
+    21300006: EnemyIdle_3
+    21300008: EnemyIdle_4
+    21300010: EnemyIdle_5
+    21300012: EnemyIdle_6
+    21300014: EnemyIdle_7
+    21300016: EnemyIdle_8
+    21300018: EnemyIdle_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: EnemyIdle_0
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1484
+        width: 289
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.5, y: 250}
+        - {x: -21.5, y: 230}
+        - {x: -20.5, y: 226}
+        - {x: -12.5, y: 212}
+        - {x: -27.5, y: 224}
+        - {x: -58.5, y: 250}
+        - {x: -124.5, y: 250}
+        - {x: -144.5, y: 247}
+        - {x: -144.5, y: -250}
+        - {x: 144.5, y: -250}
+        - {x: 144.5, y: 214}
+        - {x: 124.5, y: 250}
+      tessellationDetail: 0
+    - name: EnemyIdle_1
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1485
+        width: 288
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -76, y: 249.5}
+        - {x: -79, y: 248.5}
+        - {x: -123, y: 222.5}
+        - {x: -126, y: 215.5}
+        - {x: -144, y: 184.5}
+        - {x: -144, y: 175.5}
+        - {x: -135, y: 169.5}
+        - {x: -121, y: 161.5}
+        - {x: -144, y: 159.5}
+        - {x: -144, y: -249.5}
+        - {x: 144, y: -249.5}
+        - {x: 144, y: 163.5}
+        - {x: 104, y: 249.5}
+      tessellationDetail: 0
+    - name: EnemyIdle_2
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1485
+        width: 286
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -143, y: 249.5}
+        - {x: -143, y: -249.5}
+        - {x: 143, y: -249.5}
+        - {x: 143, y: 229.5}
+        - {x: 137, y: 249.5}
+      tessellationDetail: 0
+    - name: EnemyIdle_3
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 1484
+        width: 285
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 65.5, y: 235}
+        - {x: 61.5, y: 223}
+        - {x: 57.5, y: 215}
+        - {x: 58.5, y: 215}
+        - {x: 57.5, y: 217}
+        - {x: 27.5, y: 249}
+        - {x: 20.5, y: 249}
+        - {x: 20.5, y: 238}
+        - {x: -19.5, y: 227}
+        - {x: -15.5, y: 216}
+        - {x: -35.5, y: 231}
+        - {x: -85.5, y: 245}
+        - {x: -142.5, y: 229}
+        - {x: -142.5, y: -249}
+        - {x: 142.5, y: -249}
+        - {x: 142.5, y: 247}
+        - {x: 76.5, y: 245}
+      tessellationDetail: 0
+    - name: EnemyIdle_4
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 832
+        width: 285
+        height: 497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 118.5, y: 248.5}
+        - {x: -142.5, y: 248.5}
+        - {x: -142.5, y: 149.5}
+        - {x: -107.5, y: 112.5}
+        - {x: -85.5, y: 102.5}
+        - {x: -82.5, y: 102.5}
+        - {x: -84.5, y: 100.5}
+        - {x: -107.5, y: 111.5}
+        - {x: -142.5, y: 85.5}
+        - {x: -142.5, y: -248.5}
+        - {x: 142.5, y: -248.5}
+        - {x: 142.5, y: -227.5}
+        - {x: 132.5, y: -212.5}
+        - {x: 142.5, y: -191.5}
+        - {x: 142.5, y: 200.5}
+      tessellationDetail: 0
+    - name: EnemyIdle_5
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 832
+        width: 283
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 78.5, y: 243}
+        - {x: 39.5, y: 248}
+        - {x: 16.5, y: 248}
+        - {x: -14.5, y: 229}
+        - {x: -17.5, y: 224}
+        - {x: -66.5, y: 238}
+        - {x: -73.5, y: 236}
+        - {x: -120.5, y: 221}
+        - {x: -123.5, y: 214}
+        - {x: -141.5, y: 182}
+        - {x: -141.5, y: 175}
+        - {x: -140.5, y: 173}
+        - {x: -140.5, y: 135}
+        - {x: -95.5, y: 104}
+        - {x: -84.5, y: 102}
+        - {x: -81.5, y: 102}
+        - {x: -83.5, y: 100}
+        - {x: -98.5, y: 105}
+        - {x: -110.5, y: 107}
+        - {x: -139.5, y: 75}
+        - {x: -141.5, y: 68}
+        - {x: -141.5, y: -83}
+        - {x: -126.5, y: -248}
+        - {x: 141.5, y: -248}
+        - {x: 141.5, y: 135}
+        - {x: 117.5, y: 223}
+      tessellationDetail: 0
+    - name: EnemyIdle_6
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 840
+        width: 284
+        height: 497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 248.5}
+        - {x: -19, y: 226.5}
+        - {x: -39, y: 248.5}
+        - {x: -107, y: 248.5}
+        - {x: -142, y: 214.5}
+        - {x: -142, y: 143.5}
+        - {x: -132, y: 130.5}
+        - {x: -107, y: 112.5}
+        - {x: -85, y: 102.5}
+        - {x: -82, y: 102.5}
+        - {x: -84, y: 100.5}
+        - {x: -107, y: 111.5}
+        - {x: -142, y: 95.5}
+        - {x: -142, y: -31.5}
+        - {x: -66, y: -3.5}
+        - {x: -62, y: 0.5}
+        - {x: -69, y: -17.5}
+        - {x: -86, y: -59.5}
+        - {x: -121, y: -215.5}
+        - {x: -126, y: -248.5}
+        - {x: 142, y: -248.5}
+        - {x: 142, y: 166.5}
+        - {x: 86, y: 248.5}
+      tessellationDetail: 0
+    - name: EnemyIdle_7
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 839
+        width: 285
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 142.5, y: -94}
+        - {x: 142.5, y: 125}
+        - {x: 114.5, y: 220}
+        - {x: 75.5, y: 243}
+        - {x: 72.5, y: 242}
+        - {x: 65.5, y: 230}
+        - {x: 60.5, y: 221}
+        - {x: 57.5, y: 215}
+        - {x: 58.5, y: 215}
+        - {x: 57.5, y: 217}
+        - {x: 31.5, y: 245}
+        - {x: 27.5, y: 249}
+        - {x: 20.5, y: 249}
+        - {x: 20.5, y: 239}
+        - {x: -16.5, y: 229}
+        - {x: -18.5, y: 222}
+        - {x: -69.5, y: 244}
+        - {x: -142.5, y: 245}
+        - {x: -142.5, y: -249}
+        - {x: 142.5, y: -249}
+        - {x: 142.5, y: -222}
+        - {x: 123.5, y: -205}
+      tessellationDetail: 0
+    - name: EnemyIdle_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 286
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 72, y: 247.5}
+        - {x: 41, y: 249.5}
+        - {x: -4, y: 249.5}
+        - {x: -75, y: 243.5}
+        - {x: -126, y: 219.5}
+        - {x: -143, y: 210.5}
+        - {x: -143, y: -249.5}
+        - {x: 143, y: -249.5}
+        - {x: 143, y: 168.5}
+        - {x: 133, y: 228.5}
+      tessellationDetail: 0
+    - name: EnemyIdle_9
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 128
+        width: 288
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -76, y: 249.5}
+        - {x: -79, y: 248.5}
+        - {x: -123, y: 222.5}
+        - {x: -126, y: 215.5}
+        - {x: -144, y: 184.5}
+        - {x: -144, y: 175.5}
+        - {x: -135, y: 169.5}
+        - {x: -121, y: 161.5}
+        - {x: -144, y: 159.5}
+        - {x: -144, y: -249.5}
+        - {x: 144, y: -249.5}
+        - {x: 144, y: 163.5}
+        - {x: 104, y: 249.5}
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

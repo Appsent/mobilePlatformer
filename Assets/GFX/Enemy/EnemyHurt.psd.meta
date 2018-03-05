@@ -1,0 +1,114 @@
+fileFormatVersion: 2
+guid: 91bdb86da5b47b84db357ad62ac68f8b
+timeCreated: 1472773539
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: EnemyHurt_0
+    21300002: EnemyHurt_1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: EnemyHurt_0
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 274
+        width: 292
+        height: 494
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -79, y: 247}
+        - {x: -122, y: 235}
+        - {x: -146, y: 128}
+        - {x: -146, y: -52}
+        - {x: -111, y: -247}
+        - {x: 24, y: -247}
+        - {x: 73, y: -238}
+        - {x: 130, y: -99}
+        - {x: 146, y: -34}
+        - {x: 146, y: 247}
+      - - {x: -41, y: -202}
+        - {x: -27, y: -175}
+        - {x: -22, y: -173}
+        - {x: -19, y: -196}
+      tessellationDetail: 0
+    - name: EnemyHurt_1
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 265
+        width: 291
+        height: 494
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 145.5, y: 247}
+        - {x: -110.5, y: 247}
+        - {x: -131.5, y: 238}
+        - {x: -145.5, y: 181}
+        - {x: -145.5, y: -37}
+        - {x: -112.5, y: -240}
+        - {x: -101.5, y: -244}
+        - {x: -50.5, y: -247}
+        - {x: 10.5, y: -247}
+        - {x: 72.5, y: -238}
+        - {x: 135.5, y: -90}
+        - {x: 145.5, y: -46}
+      - - {x: -40.5, y: -201}
+        - {x: -27.5, y: -175}
+        - {x: -22.5, y: -173}
+        - {x: -19.5, y: -196}
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
